@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pkl
+*.pth
+*.log
+.DS_Store
+experiments/data/MNIST/
+experiments/data/CIFAR/
+node_modules/
+build/
+*.pdf
